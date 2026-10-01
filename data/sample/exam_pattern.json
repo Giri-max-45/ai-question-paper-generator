@@ -1,0 +1,27 @@
+{
+  "subject": "DBMS",
+  "total_marks": 70,
+  "duration_minutes": 180,
+  "difficulty_distribution": {
+    "easy": 30,
+    "medium": 50,
+    "hard": 20
+  },
+  "sections": [
+    {
+      "name": "Section A",
+      "number_of_questions": 10,
+      "marks_per_question": 1
+    },
+    {
+      "name": "Section B",
+      "number_of_questions": 5,
+      "marks_per_question": 4
+    },
+    {
+      "name": "Section C",
+      "number_of_questions": 4,
+      "marks_per_question": 10
+    }
+  ]
+}
